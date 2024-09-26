@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20480215613",
+    "project_id": "nest-ac0a3",
+    "storage_bucket": "nest-ac0a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20480215613:android:47453b151c71de28d1f854",
+        "android_client_info": {
+          "package_name": "com.example.nest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH3BBaXOY-Re683tzgiUmE0sEx4bQuh2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
